@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AftabSahil/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AftabSahil/leetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/AftabSahil/leetcode/tree/master/0412-fizz-buzz) |
 ## String
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AftabSahil/leetcode/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AftabSahil/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AftabSahil/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
